@@ -14,7 +14,7 @@
           <!-- Github -->
           <div class="level-item">
             <a
-              href="https://www.github.com/IsraelMuCa"
+              href="https://www.github.com/lu6ith"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="Github"

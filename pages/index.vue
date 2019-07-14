@@ -3,7 +3,7 @@
     <Header>
       <h1
         class="title"
-      >Hi! I'm Israel Muñoz, a Full Stack Web Developer. I'm currently working in expanding access to computer science in mexican schools.</h1>
+      >Hi! I'm Wojciech Lubicz-Łapiński, a Full Stack Web Developer. I'm currently working in expanding access to computer science in PSE.</h1>
     </Header>
     <div class="container" id="blog">
       <div class="columns">
